@@ -9,7 +9,8 @@ Sua página pode seguir um estilo livre, mas deve obrigatoriamente conter:
 
 - **Ícone da página** (favicon).  
 - **Uso de Flexbox ou CSS Grid** para organizar o layout.  
-- **Animação CSS** (pode ser um efeito sutil para deixar a página mais dinâmica).  
+- **Animação CSS** (pode ser um efeito sutil para deixar a página mais dinâmica).
+- **Paleta de cores usando properties** 
 - **Código limpo e boas práticas**, como as discutidas neste curso.
 - **Código responsivo**
 - **Design agradável e atualizado** (evitando o visual dos anos 90, conforme explicado abaixo)
