@@ -64,18 +64,9 @@ A competição será avaliada por dois critérios:
 
 A nota final de cada equipe será calculada combinando **Análise Técnica** e **Votação Popular**. A análise técnica será uma nota de 0 a 10 e a votação popular será normalizada. Logo após, será realizado uma média ponderada das notas. Assim, a nota final da equipe será calculada a fórmula abaixo:  
 
-1. **Normalização da votação popular** (transformando em uma escala de 0 a 10):  
+1. **Normalização da votação popular** (transformando em uma escala de 0 a 10):  ```Voto_Normalizado = (Votos_Recebidos / Votos_Máximos) * 10```
+2. **Cálculo da nota final**: ```Nota_Final = (Análise_Técnica * 0.6) + (Voto_Normalizado * 0.4)```
 
-   \[
-   Voto\_Normalizado = \left(\frac{Votos\_Recebidos}{Votos\_Máximos}\right) \times 10
-   \]
-
-2. **Cálculo da nota final**:  
-
-   \[
-   Nota\_Final = (Análise\_Técnica \times 0.6) + (Voto\_Normalizado \times 0.4)
-   \]
- 
 Tanto alunos dos módulos básicos e avançados poderão participar! Serão selecionados as 8 melhores páginas e a competição terá duas etapas: 
 
 1. **Etapa classificatória**: iremos classificar 8 páginas sendo até 3 páginas de alunos do módulo básico. Os estudantes serão divididos em chaves de maneira aleatória e serão selecionados os melhores de cada uma. 
