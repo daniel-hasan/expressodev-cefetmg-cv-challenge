@@ -1,7 +1,7 @@
 # Página Crie o seu Currículo (ou fictício)
 
-Crie uma página Web para apresentar um currículo—real ou fictício!  
-Use a criatividade para destacar habilidades e experiências de forma inovadora. 😉
+Crie uma página Web para apresentar um currículo vitae, seja ele real ou fictício! Você pode criar o seu próprio currículo, o de outra pessoa ou até de um personagem inventado — use a criatividade!
+
 
 ## Requisitos obrigatórios
 
@@ -12,7 +12,7 @@ Sua página pode seguir um estilo livre, mas deve obrigatoriamente conter:
 - **Animação CSS** (pode ser um efeito sutil para deixar a página mais dinâmica).  
 - **Código limpo e boas práticas**, como as discutidas neste curso.
 - **Código responsivo**
-- **Design agradável e atualizado** (evitando o visual dos anos 90, conforme explicado abaixo).  
+- **Design agradável e atualizado** (evitando o visual dos anos 90, conforme explicado abaixo)
 
 <details>
    <summary>Evite a "carinha dos anos 90" 😆</summary>
@@ -62,17 +62,30 @@ A competição será avaliada por dois critérios:
 1. **Análise técnica**: O professor, juntamente com os monitores, avaliarão aspectos tais como código limpo, usabilidade, responsividade e criatividade no design.  
 2. **Votação popular**: As páginas serão publicadas online para que o público vote na sua favorita.
 
-A nota final de cada equipe será calculada combinando **Análise Técnica** e **Votação Popular**. A análise técnica será uma nota de 0 a 10 e a votação popular será normalizada. Logo após, será realizado uma média ponderada das notas. Assim, a nota final da equipe será calculada a fórmula abaixo:  
+A nota final de cada estudante será calculada combinando **Análise Técnica** e **Votação Popular**. A análise técnica será uma nota de 0 a 10 e a votação popular será normalizada. Logo após, será realizado uma média ponderada das notas. Assim, a nota final do aluno será calculada a fórmula abaixo:  
 
-1. **Normalização da votação popular** (transformando em uma escala de 0 a 10):  ```Voto_Normalizado = (Votos_Recebidos / Votos_Máximos) * 10```
+1. **Normalização da votação popular** (transformando em uma escala de 0 a 10):  ```Voto_Normalizado = (Votos_Recebidos / Votos_Máximos) * 10```. Sendo que ```Votos_Máximos``` é o valor de votos do aluno mais bem votado.
 2. **Cálculo da nota final**: ```Nota_Final = (Análise_Técnica * 0.6) + (Voto_Normalizado * 0.4)```
 
 Tanto alunos dos módulos básicos e avançados poderão participar! Serão selecionados as 8 melhores páginas e a competição terá duas etapas: 
 
 1. **Etapa classificatória**: iremos classificar 8 páginas sendo até 3 páginas de alunos do módulo básico. Os estudantes serão divididos em chaves de maneira aleatória e serão selecionados os melhores de cada uma. 
 2. **Etapa final**: as 8 páginas finais realizarão sua última disputa para definir a colocação final na competição.
+---
+## Regras de Conduta e Motivos para Eliminação
+Para garantir um ambiente respeitoso e justo para todos os participantes, qualquer página submetida à competição **será automaticamente eliminada caso contenha**:
 
---
+1. **Discriminação ou Ofensa**: Qualquer tipo de conteúdo que promova preconceito, discurso de ódio, assédio, intimidação ou ataques a indivíduos ou grupos com base em raça, etnia, gênero, orientação sexual, religião, deficiência ou qualquer outra característica.
+
+2. **Conteúdo Abusivo**: Material que incite violência, difame, exponha de forma indevida terceiros, contenha linguagem imprópria ou viole normas éticas.
+
+3. **Violação de Direitos Autorais**: Uso de textos, imagens, vídeos, músicas ou qualquer outro conteúdo protegido sem a devida autorização ou crédito apropriado. É responsabilidade do participante garantir que todo o material utilizado esteja de acordo com as normas de propriedade intelectual.
+
+**Dica**: Se for utilizar imagens, fontes ou outros recursos externos, opte por conteúdos de domínio público ou com licenças abertas, como [Creative Commons](https://pt.wikipedia.org/wiki/Creative_Commons).
+
+**🔍 Fiscalização**: A organização reserva-se o direito de revisar todas as submissões e remover qualquer página que viole estas diretrizes, sem aviso prévio.
+
+---
 ## Reconhecimentos e prêmios
 
 🏆 **Os 8 primeiros colocados recebem certificado de destaque.**  
