@@ -86,7 +86,7 @@ Tanto alunos dos módulos básicos e avançados poderão participar! Serão sele
 
 🏆 **Os 8 primeiros colocados recebem certificado de destaque.**  
 
-🎖️ **Hall da Fama**: as páginas vencedoras ficarão em destaque no site do curso por um tempo proporcional à colocação:  
+🎖️ **Hall da Fama**: as páginas vencedoras ficarão em destaque no site do curso, [similar a este](https://prof-hasan.github.io/cefet-front-end-extensao/#tps), por um tempo proporcional à colocação:  
 
 - 🥇 **1º e 2º lugares** → 2 anos  
 - 🥈 **3º e 4º lugares** → 1 ano  
