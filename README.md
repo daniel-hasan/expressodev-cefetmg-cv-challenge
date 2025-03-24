@@ -1,6 +1,6 @@
 # Página Crie o seu Currículo (ou fictício)
 
-Crie uma página Web para apresentar um currículo vitae, seja ele real ou fictício! Você pode criar o seu próprio currículo, o de outra pessoa ou até de um personagem inventado — use a criatividade!
+Crie uma página Web para apresentar um currículo vitae, seja seu ou de um personagem fictício! Você pode criar o seu próprio currículo, o de outra pessoa ou até de um personagem inventado — use a criatividade!
 
 
 ## Requisitos obrigatórios
