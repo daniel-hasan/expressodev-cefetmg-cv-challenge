@@ -103,5 +103,7 @@ Para garantir um ambiente respeitoso e justo para todos os participantes, qualqu
   - Aprendizado de Máquina  
   - Desenvolvimento Web (HTML/CSS/JS ou Django/Python)  
 - **Direito a certificado de mentoria**  
-
 Boa sorte e capriche no design do seu currículo! 🚀  
+---
+## Visualização via GithubPages
+A página criada é visualizada automaticamente via [GithubPages](https://pages.github.com/). Digite a seguinte URL: `<usuario>.github.io/<nome-do-repositorio>` e conseguirá acessá-la (depois de alguns minutos de enviar seu código).
