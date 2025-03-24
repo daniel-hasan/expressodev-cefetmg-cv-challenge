@@ -2,7 +2,7 @@
 
 Crie uma página Web para apresentar um currículo vitae, seja seu ou de um personagem fictício! Você pode criar o seu próprio currículo, o de outra pessoa ou até de um personagem inventado — use a criatividade!
 
-
+**Atenção**: Como o site estará publico, não recomendamos informar endereço ou alguma informação sensível.
 
 ## Competição - Como irá funcionar?
 
@@ -20,6 +20,15 @@ Tanto alunos dos módulos básicos e avançados poderão participar! Serão sele
 
 1. **Etapa classificatória**: iremos classificar 8 páginas sendo até 3 páginas de alunos do módulo básico. Os estudantes serão divididos em chaves de maneira aleatória e serão selecionados os melhores de cada uma. 
 2. **Etapa final**: as 8 páginas finais realizarão sua última disputa para definir a colocação final na competição.
+---
+## Dados do competidor
+Iremos divulgar sua página nas mídias sociais, caso autorize a divulgação das suas redes sociais junto com o site, edite este README.MD e informe os seguintes dados:
+
+- Conta do Instagram:
+- Conta do LinkedIn:
+
+Esses dados não são obrigatórios. 
+
 ---
 ## Avaliação técnica - critérios
 
