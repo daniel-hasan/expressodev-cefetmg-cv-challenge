@@ -11,7 +11,7 @@ Sua página pode seguir um estilo livre, mas deve obrigatoriamente conter:
 - **Uso de Flexbox ou CSS Grid** para organizar o layout.  
 - **Animação CSS** (pode ser um efeito sutil para deixar a página mais dinâmica).
 - **Paleta de cores do CV, com uso de custom properties** 
-- **Código limpo e boas práticas**, como as discutidas neste curso.
+- **Código limpo e boas práticas**, código sem repetições desnecessárias e considerando as [boas práticas discutidas no curso](https://prof-hasan.github.io/guias-curso-extensao/boas_praticas_html_css.pdf).
 - **Código responsivo**
 - **Design agradável e atualizado** (evitando o visual dos anos 90, conforme explicado abaixo)
 
